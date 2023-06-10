@@ -1,3 +1,4 @@
+![logo](https://github.com/Mitsukiiy/Mitsukiiy/blob/main/cover%201.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Mitushi Yadav</h1>
 <h3 align="center">A passionate frontend and AI developer from India</h3>
 
