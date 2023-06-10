@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFgAnSMSyY/toJ0YUKmPlDcZOfzYQtaLw/edit?utm_content=DAFgAnSMSyY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/Mitsukiiy/Mitsukiiy/blob/main/my%20banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Mitushi Yadav</h1>
 <h3 align="center">A passionate frontend and AI developer from India</h3>
 
