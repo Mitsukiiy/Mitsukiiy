@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitushi Yadav</h1>
 <h3 align="center">A passionate frontend and AI developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw0B2sLSKuWmeiDypz3NUQDa&ust=1686462974438000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiwpLyDuP8CFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src="https://pin.it/7zWRufo">
 
 - 🌱 I’m currently learning **Backend development**
 
